@@ -7,7 +7,7 @@ This repository contains Python code for analyzing data related to Arsenal Footb
 3-Usage
 4-Analysis
 5-Contributing
-6-License
+
 ## Introduction
 Arsenal Football Club, commonly known as Arsenal, is a professional football club based in London, England. This project aims to analyze various aspects of Arsenal's matches using Python and pandas.
 
@@ -63,5 +63,4 @@ Feel free to explore and modify the code to conduct further analysis or create a
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please open an issue or submit a pull request.
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
